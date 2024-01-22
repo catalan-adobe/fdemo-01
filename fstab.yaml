@@ -1,3 +1,4 @@
 mountpoints:
-  /: https://adobe-my.sharepoint.com/:f:/r/personal/catalan_adobe_com/Documents/fdemo-01
-
+  /:
+    url: https://content.da.live/catalan-adobe/fdemo-01/
+    type: markup
